@@ -1,0 +1,61 @@
+ump university
+{
+    Faculté des Sciences:
+    [
+        licence-fondamentale:{mip-informatique-et-informatique-appliquee,sciences-mathematiques-et-applications,sciences-de-la-matiere-physique,sciences-de-la-matiere-physique,science-de-la-matiere-chimie,sciences-de-la-vie,sciences-de-la-terre-et-de-lunivers,cahiers-des-normes-pedagogiques-nationales
+        }
+        licence-professionnelle:{}
+        master:{}
+        Doctorant:{}
+    ]
+
+    Faculté des Sciences Juridiques, Économiques et Sociales:
+    [
+        Licences-fondamentale :{ Langues, Littérature, Géographie, Histoire.}
+        Masters : {Traduction, Tourisme, Patrimoine culturel}
+    ]
+    École Nationale des Sciences Appliquées:
+    [
+        Diplômes d’ingénieur : {Génie civil, Génie informatique, Télécommunications}
+    ]
+
+    École Nationale de Commerce et de Gestion:[
+        Diplômes d’ingénieur { Commerce international, Gestion financière, Marketing}
+
+    ]
+
+    Faculté de Médecine et de Pharmacie:[{
+        Diplôme de Docteur:{ Médecine generale}
+    }]
+    École Supérieure de Technologie:[
+        Dut:{}
+        Licences professionnelles :{ Informatique, Génie industriel, Sciences des matériaux}
+    ]
+
+    ENIAD( Ecole Nationale de l'Intelligence artificialle et digital): [
+        Ingénierie: {
+            Intelligence artificialle: {}
+            Genie Informatique: {}
+            Robotique et objet connecté: {}
+            Reseau et securité: {}
+        }
+    ]
+
+}
+
+ENSIAS:
+{
+    Génie Logiciel,Business Intelligence,Ingénierie e-Logistique,Ingénierie des Télécommunications et Réseaux,Systèmes Embarqués et Mobiles,Sécurité des Systèmes d'Information
+
+}
+
+EMI:
+{
+    Génie Civil,Génie des Procédés Industriels,Génie Électrique,Génie Industriel,Génie,Informatique,Génie Mécanique,Génie Minéral,Modélisation et Informatique Scientifique,Génie Réseaux et Télécommunications
+}
+
+ENSAM Meknas:
+{
+    Génie Mécanique et Structures,Génie Industriel et Productique,Génie Électromécanique,Génie des Matériaux et Ingénierie des Procédés de Fabrication 
+
+}
