@@ -35,7 +35,7 @@ css = """
         font-weight: bold;
     }
     .stTextInput, .stNumberInput {
-        border: 2px solid #1e3a8a; /* Bordure bleue pour les champs de saisie */
+        border: 2px solidrgb(36, 75, 184); /* Bordure bleue pour les champs de saisie */
         border-radius: 5px;
     }
     .stTextInput input, .stNumberInput input {
